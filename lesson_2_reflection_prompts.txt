@@ -31,5 +31,12 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	merging two branches will result in one combined branch only
+	-> that's why it is represented as two branches meeting
+	into one branch in the diagram
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+	pro: great if everything works out fine
+	con: difficult to spot problem if something should go wrong
