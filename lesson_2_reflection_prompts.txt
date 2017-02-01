@@ -6,7 +6,7 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-	working directory contains currewtn files, repository tracks changes
+	working directory contains current files, repository tracks changes
 	staging area lists changes to be tracked
 	like some zwischenschritt
 
@@ -18,6 +18,10 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	when trying something - adding a feature, testing for a bug
+	so far working code stays untouched...
+
 
 How do the diagrams help you visualize the branch structure?
 
